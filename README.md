@@ -75,7 +75,7 @@ The e2e tests are using Protractor and Jasmine.
 - S3
 ![Screen Shot 2022-12-05 at 1 16 28 PM](https://user-images.githubusercontent.com/27437881/205646260-eef93551-d8d8-442e-a92e-37a2119c3347.png)
 
--Elastic beanstalk
+- Elastic beanstalk
 ![Screen Shot 2022-12-05 at 2 16 28 PM](https://user-images.githubusercontent.com/27437881/205646357-1111450a-cc88-4f68-8e88-291f1fa2d98c.png)
 
 - Pipline
@@ -86,7 +86,7 @@ The e2e tests are using Protractor and Jasmine.
 
 
 ## Application URL
-http://udagram-bucket2.s3-website-us-east-1.amazonaws.com/
+http://udagram-bucket2.s3-website-us-east-1.amazonaws.com
 
 
 ## License
