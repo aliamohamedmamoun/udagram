@@ -67,6 +67,28 @@ The e2e tests are using Protractor and Jasmine.
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+## Screenshots
+
+- RDS 
+![Screen Shot 2022-12-05 at 12 33 06 PM](https://user-images.githubusercontent.com/27437881/205646076-d32cfcec-dd67-4f95-b927-d1ebfe900e50.png)
+
+- S3
+![Screen Shot 2022-12-05 at 1 16 28 PM](https://user-images.githubusercontent.com/27437881/205646260-eef93551-d8d8-442e-a92e-37a2119c3347.png)
+
+-Elastic beanstalk
+![Screen Shot 2022-12-05 at 2 16 28 PM](https://user-images.githubusercontent.com/27437881/205646357-1111450a-cc88-4f68-8e88-291f1fa2d98c.png)
+
+- Pipline
+![Screen Shot 2022-12-05 at 3 16 59 PM](https://user-images.githubusercontent.com/27437881/205646639-284613c0-e148-429b-9596-d534e414f942.png)
+
+- Env Variables
+![Screen Shot 2022-12-05 at 3 19 28 PM](https://user-images.githubusercontent.com/27437881/205647110-a5d9294e-304a-4086-a478-e44fe7986785.png)
+
+
+## Application URL
+http://udagram-bucket2.s3-website-us-east-1.amazonaws.com/
+
+
 ## License
 
 [License](LICENSE.txt)
