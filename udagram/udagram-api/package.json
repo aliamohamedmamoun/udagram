@@ -5,9 +5,9 @@
   "engines": {
     "node": "14.15.0"
   },
-  "main": "server.ts",
+  "main": "server.js",
   "scripts": {
-    "start": "node ./www/server.js",
+    "start": "node .",
     "tsc": "npx tsc",
     "dev": "npx ts-node-dev --respawn --transpile-only ./src/server.ts",
     "prod": "npx tsc && node ./www/server.js",
@@ -25,6 +25,7 @@
     "aws-sdk": "^2.429.0",
     "bcryptjs": "2.4.3",
     "body-parser": "^1.18.3",
+    "chokidar": "^3.5.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "email-validator": "^2.0.4",
